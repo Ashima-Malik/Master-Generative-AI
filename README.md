@@ -21,3 +21,70 @@ Content Creators & Creatives: Unlock new avenues for generating innovative conte
 Join the Generative AI Revolution:
 
 This free course in 2024 empowers you to be part of the generative AI revolution.  Sign up today and get ready to transform the way you think about creating with AI!
+
+💥🆓 List of Free Generative AI courses:
+
+LLM Basics and Foundations by Large Language Models by ETH Zurich
+Generative AI with Large Language Models by Coursera
+Generative AI Fundamentals by Google Cloud
+Understanding Large Language Models by Princeton
+Transformers course by Huggingface
+NLP course by Huggingface
+Introduction to Generative AI by Coursera
+Introduction to Large Language Models by Google Cloud
+Generative AI Concepts by DataCamp (Daniel Tedesco Data Lead @ Google)
+LLM Foundation Models from the Ground Up | Primer by Databricks
+Generative AI Explained by Nvidia
+Transformer Models and BERT Model by Google Cloud
+Generative AI Learning Plan for Decision Makers by AWS
+Introduction to Responsible AI by Google Cloud
+Fundamentals of Generative AI by Microsoft Azure
+Generative AI for Beginners by Microsoft
+ChatGPT for Beginners: The Ultimate Use Cases for Everyone by Udemy
+Building LLM Applications
+LLMOps: Building Real-World Applications With Large Language Models by Udacity
+Full Stack LLM Bootcamp by FSDL
+Large Language Models: Application through Production by Databricks
+Generative AI Foundations by AWS
+Introduction to Generative AI Community Course by ineuron
+LLM University by Cohere
+LLM Learning Lab by Lightning AI
+Functions, Tools and Agents with LangChain by Deeplearning.AI
+LangChain for LLM Application Development by Deeplearning.AI
+LLMOps by DeepLearning.AI
+Automated Testing for LLMOps by DeepLearning.AI
+Building RAG Agents with LLMs by Nvidia
+Building Generative AI Applications Using Amazon Bedrock by AWS
+Efficiently Serving LLMs by DeepLearning.AI
+Building Systems with the ChatGPT API by DeepLearning.AI
+Serverless LLM apps with Amazon Bedrock by DeepLearning.AI
+Building Applications with Vector Databases by DeepLearning.AI
+Build LLM Apps with LangChain.js by DeepLearning.AI
+Advanced Retrieval for AI with Chroma by DeepLearning.AI
+Operationalizing LLMs on Azure by Coursera
+Generative AI Full Course – Gemini Pro, OpenAI, Llama, Langchain, Pinecone, Vector Databases & More by freeCodeCamp.org
+Prompt Engineering, RAG and Fine-Tuning
+LangChain & Vector Databases in Production by Activeloop
+Reinforcement Learning from Human Feedback by DeepLearning.AI
+Finetuning Large Language Models by Deeplearning.AI
+LangChain: Chat with Your Data by Deeplearning.AI
+Prompt Engineering with Llama 2 by Deeplearning.AI
+ChatGPT Prompt Engineering for Developers by Deeplearning.AI
+Advanced RAG Orchestration series by LlamaIndex
+Prompt Engineering Specialization by Coursera
+Augment your LLM Using Retrieval Augmented Generation by Nvidia
+Knowledge Graphs for RAG by Deeplearning.AI
+Open Source Models with Hugging Face by Deeplearning.AI
+Vector Databases: from Embeddings to Applications by Deeplearning.AI
+Understanding and Applying Text Embeddings by Deeplearning.AI
+JavaScript RAG Web Apps with LlamaIndex by Deeplearning.AI
+Evaluation
+Building and Evaluating Advanced RAG Applications by DeepLearning.AI
+Evaluating and Debugging Generative AI Models Using Weights and Biases by Deeplearning.AI
+Quality and Safety for LLM Applications by Deeplearning.AI
+Red Teaming LLM Applications by Deeplearning.AI
+Multimodal
+How Diffusion Models Work by DeepLearning.AI
+How to Use mid journey, AI Art, and ChatGPT to Create an Amazing Website by Brad Hussey
+Build AI Apps with ChatGPT, DALL-E, and GPT-4 by Scrimba
+11-777: Multimodal Machine Learning by Carnegie Mellon University
